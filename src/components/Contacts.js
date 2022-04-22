@@ -34,22 +34,21 @@ function Contacts() {
 export default Contacts;
 
 const Content = styled.div`
-  text-align: center;
-  margin-left: 360px;
-  margin-bottom: -55px;
+  margin-bottom: -30px;
   border-left: 2px solid 60px;
 
   li {
     list-style: none;
-    margin-left: 160px;
-    font-size: 40px;
+
+    margin-left: 22vw;
+    font-size: 55px;
     padding: 15px;
   }
   span:hover {
     border: 3px solid;
     border-radius: 60px;
     display: flex;
-    font-size: 41px;
+    font-size: 56px;
     background-color: #78ebed;
   }
 `;
