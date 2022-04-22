@@ -65,10 +65,8 @@ function ImgSlider() {
 export default ImgSlider;
 
 const Carousel = styled(Slider)`
-  width: 33.2%;
-  height: 596px;
-  margin-bottom: 204px;
-  margin-left: -9px;
+  width: 33.3%;
+  height: 62vh;
 `;
 
 const Wrap = styled.div`
