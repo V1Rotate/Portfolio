@@ -34,13 +34,12 @@ function Contacts() {
 export default Contacts;
 
 const Content = styled.div`
-  margin-bottom: -30px;
+  margin-bottom: 0;
   border-left: 2px solid 60px;
 
   li {
     list-style: none;
-
-    margin-left: 22vw;
+    margin-left: 17vw;
     font-size: 55px;
     padding: 15px;
   }
