@@ -14,7 +14,7 @@ function Home() {
       <Section
         title='About Me'
         anchor='about'
-        description='I would be happy to discuss my professional experience and credentials in details...'
+        description='I would be happy to discuss my professional experience and credentials in details'
         backgroundImg='section2.jpg'
       />
       <Section
